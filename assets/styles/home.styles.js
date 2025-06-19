@@ -34,22 +34,6 @@ const styles = StyleSheet.create({
 
 })
 
-{import { View, Text, SafeAreaView, FlatList } from 'react-native'
-import React from 'react'
 
-export default function Homescreen() {
-  return (
-    <SafeAreaView>
-
-   <FlatList
-   
-   
-   />
-    
-   
-
-    </SafeAreaView>
-  )
-}}
 
 export default styles;
